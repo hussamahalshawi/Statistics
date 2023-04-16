@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Alice",
+        "age": 25,
+        "gender": "female",
+        "income": 50000
+    },
+    {
+        "name": "Bob",
+        "age": 30,
+        "gender": "male",
+        "income": 60000
+    },
+    {
+        "name": "Charlie",
+        "age": 35,
+        "gender": "male",
+        "income": 70000
+    }
+]
